@@ -26,4 +26,5 @@ Once the pods were installed properly, open Todoey.xcworkspace with Xcode and ru
 
 * [Realm](https://realm.io/docs/swift/latest/) - Persisting Data
 * [ChameleonFramework](https://github.com/vicc/Chameleon) - Color Framework
+* [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell
 
